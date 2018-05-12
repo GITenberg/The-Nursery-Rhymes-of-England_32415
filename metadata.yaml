@@ -1,0 +1,42 @@
+_repo: The-Nursery-Rhymes-of-England_32415
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Halliwell-Phillipps, J. O. (James Orchard)
+    aliases:
+    - Halliwell, James Orchard
+    - Halliwell, J. O. (James Orchard)
+    - Halliwell-Phillipps, James Orchard
+    birthdate: 1820
+    deathdate: 1889
+    gutenberg_agent_id: '8746'
+    url: http://www.gutenberg.org/2009/agents/8746
+    wikipedia: http://en.wikipedia.org/wiki/James_Orchard_Halliwell-Phillipps
+  illustrator:
+    agent_name: Scott, William Bell
+    aliases:
+    - Scott, W. B. (William Bell)
+    - Scott, William B. (William Bell)
+    birthdate: 1811
+    deathdate: 1890
+    gutenberg_agent_id: '35837'
+    url: http://www.gutenberg.org/2009/agents/35837
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32415'
+  lccn: '20007893'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Nursery rhymes, English'
+- !lcsh 'Oral tradition -- England'
+title: The Nursery Rhymes of England
+url: http://www.gutenberg.org/ebooks/32415
